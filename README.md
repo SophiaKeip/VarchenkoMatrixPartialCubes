@@ -19,18 +19,18 @@ The script checks whether the input graph is a partial cube. If it is, it identi
 This script uses the work of **David Eppstein**.  
 In order to use our script, get the following files:
 
-BFS.py
-Biconnectivity.py
-Bipartite.py
-BipartiteMatching.py
-DFS.py
-Graphs.py
-Medium.py
-PartialCube.py
-PartialOrder.py
-StrongConnectivity.py
-UnionFind.py
-Util.py
+- BFS.py
+- Biconnectivity.py
+- vBipartite.py
+- BipartiteMatching.py
+- DFS.py
+- Graphs.py
+- Medium.py
+- PartialCube.py
+- PartialOrder.py
+- StrongConnectivity.py
+- UnionFind.py
+- Util.py
 
 from  
 [https://ics.uci.edu/~eppstein/PADS/](https://ics.uci.edu/~eppstein/PADS/)
