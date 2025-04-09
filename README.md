@@ -1,8 +1,8 @@
 # VarchenkoMatrixPartialCubes
 
-We compute the Varchenko matrix of a partial cube and determine its determinant.
+We compute the Varchenko matrix of a partial cube.
 
-The Python script `Calc_VM.py` computes the Varchenko matrix of a given partial cube graph. It is based on a collection of utility functions for graph analysis and symbolic matrix construction using the `sympy` library.
+The Python script `Calc_VM.py` computes the Varchenko matrix of a given partial cube graph. It is based on a collection of functions from [David Eppstein](https://ics.uci.edu/~eppstein/) and and utilizes symbolic matrix construction provided by the `sympy` library.
 
 **Input:**  
 An undirected graph `G`, represented as a dictionary of adjacency lists.
